@@ -44,140 +44,140 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Doces e Sobremesas",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Dicas e Receitas de Doces e Sobremesas",
+        "url": "https://www.tudogostoso.com.br/categorias/1037-doces-e-sobremesas"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Pudim sem forno",
+          "url": "https://www.youtube.com/watch?v=MTLe_qU1Dd4&list=PLYK5iRIrpTX7kGvW73A0rOXHdF8rO8Db5"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Torta de Banana com Chocolate",
+          "url": "https://www.youtube.com/watch?v=szgkiaV6sM8&list=PLYK5iRIrpTX7kGvW73A0rOXHdF8rO8Db5&index=2"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Mousse de Maracujá",
+          "url": "https://www.youtube.com/watch?v=WtqLP-3PmAU&list=PLYK5iRIrpTX7kGvW73A0rOXHdF8rO8Db5&index=4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Pavê simples de Chocolate",
+          "url": "https://www.youtube.com/watch?v=1ngCIWqIxtI&list=PLYK5iRIrpTX7kGvW73A0rOXHdF8rO8Db5&index=6"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Abacaxi com Creme de Leite Condensado",
+          "url": "https://www.youtube.com/watch?v=E4Q8ZoBpC9A&list=PLYK5iRIrpTX7kGvW73A0rOXHdF8rO8Db5&index=12"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Light e Diet",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Dicas e Receitas Lights e Diets",
+        "url": "https://www.anamariabrogui.com.br/categoria/light-e-diet"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Ratatouille",
+          "url": "https://www.youtube.com/watch?v=kYBGbYAp0K0&list=PLTF0m1dspBSO32spMURReAXeryEbqvMVq"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Iogurte Grego",
+          "url": "https://www.youtube.com/watch?v=9ad6cfFaovU&list=PLTF0m1dspBSO32spMURReAXeryEbqvMVq&index=2"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Torta Fria de Sardinha",
+          "url": "https://www.youtube.com/watch?v=Mv61cdJDRfM&list=PLTF0m1dspBSO32spMURReAXeryEbqvMVq&index=5"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Lasanha de Abobrinha",
+          "url": "https://www.youtube.com/watch?v=92aiVftAHwQ&list=PLTF0m1dspBSO32spMURReAXeryEbqvMVq&index=6"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Recitas Fáceis",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Torta de Frango de Liquidificador",
+          "url": "https://www.youtube.com/watch?v=QYm0HkdFN_c&list=PLYK5iRIrpTX56pxcXiS5RE2HBr2N5LwrB"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Fricassê de Frango",
+          "url": "https://www.youtube.com/watch?v=op0Q73LXH7Q&list=PLYK5iRIrpTX56pxcXiS5RE2HBr2N5LwrB&index=5"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Arroz de Forno Super Fácil",
+          "url": "https://www.youtube.com/watch?v=88dYtyx0pTc&list=PLYK5iRIrpTX56pxcXiS5RE2HBr2N5LwrB&index=7"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Rocambole de Carne Moída",
+          "url": "https://www.youtube.com/watch?v=NmICuanRLck&list=PLYK5iRIrpTX56pxcXiS5RE2HBr2N5LwrB&index=34"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Receitas da Ana Maria Brogui",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Dicas e receitas da Ana Maria Brogui",
+        "url": "https://www.anamariabrogui.com.br/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Como fazer Doritos",
+          "url": "https://www.youtube.com/watch?v=oaPCzEnI7iw&list=PLTF0m1dspBSNZNc0UiSMMdf05pRqHQybr&index=1"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Como fazer Batata Frita do MCDonalds",
+          "url": "https://www.youtube.com/watch?v=QoQAXZdyok8&list=PLTF0m1dspBSNZNc0UiSMMdf05pRqHQybr&index=3"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Como fazer maionese verde",
+          "url": "https://www.youtube.com/watch?v=EtnJhvOsGuE&list=PLTF0m1dspBSNZNc0UiSMMdf05pRqHQybr&index=4"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Como fazer Pastel de Feira",
+          "url": "https://www.youtube.com/watch?v=Cys1CSOI2cg&list=PLTF0m1dspBSNZNc0UiSMMdf05pRqHQybr&index=6"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Como fazer a melhor Coxinha do Mundo",
+          "url": "https://www.youtube.com/watch?v=UqnUL3XZZ0Q&list=PLTF0m1dspBSNZNc0UiSMMdf05pRqHQybr&index=11"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Bebidas",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Dicas e Receitas de Bebidas",
+        "url": "https://www.tudogostoso.com.br/categorias/1032-bebidas"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Capuccino",
+          "url": "https://www.youtube.com/watch?v=D1mwooEpCGE&list=PLYK5iRIrpTX4UqDfPWCj_lZSIFFeALmvq&index=1"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Ice de Limão",
+          "url": "https://www.youtube.com/watch?v=wBJ4LovoSog&list=PLYK5iRIrpTX4UqDfPWCj_lZSIFFeALmvq&index=6"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Drink Levanta Ressaca",
+          "url": "https://www.youtube.com/watch?v=69Wg1BntmB4&list=PLYK5iRIrpTX4UqDfPWCj_lZSIFFeALmvq&index=7"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Michelada",
+          "url": "https://www.youtube.com/watch?v=l1nYwbJXzNg&list=PLYK5iRIrpTX4UqDfPWCj_lZSIFFeALmvq&index=15"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Caipirinhas tropicais",
+          "url": "https://www.youtube.com/watch?v=wux1JERHqq0&list=PLYK5iRIrpTX4UqDfPWCj_lZSIFFeALmvq&index=20"
         }
       ]
     }
