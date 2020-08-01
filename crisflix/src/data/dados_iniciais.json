@@ -1,46 +1,46 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Bolos e Tortas",
+      "link": "https://www.tudogostoso.com.br/categorias/1000-bolos-e-tortas-doces",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Dicas e receitas de Bolos e Tortas",
+        "url": "https://www.tudogostoso.com.br/categorias/1000-bolos-e-tortas-doces"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Bolo de milho cremoso #tudogostoso",
+          "url": "https://www.youtube.com/watch?v=DCSgdrpCZhw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Bolo de Fubá com Goiabada",
+          "url": "https://www.youtube.com/watch?v=rrhoHShOvGw&feature=emb_logo"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Bolo de Banana Caramelada",
+          "url": "https://www.youtube.com/watch?v=j0WoEyAAags&feature=emb_logo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Bolo de Cenoura",
+          "url": "https://www.youtube.com/watch?v=mRij59AYQP0&list=PLYK5iRIrpTX7gIOo40tp17DEePUCEFNU0&index=1"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Bolo de Laranja",
+          "url": "https://www.youtube.com/watch?v=kkBUdrZ-RSU&list=PLYK5iRIrpTX7gIOo40tp17DEePUCEFNU0&index=3"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Bolo de Prestígio",
+          "url": "https://www.youtube.com/watch?v=qr76F6jXAQU&list=PLYK5iRIrpTX7gIOo40tp17DEePUCEFNU0&index=8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Bolo Queijadinha",
+          "url": "https://www.youtube.com/watch?v=2PFZXkYL1KI&list=PLYK5iRIrpTX7gIOo40tp17DEePUCEFNU0&index=7"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Bolo Toalha Felpuda",
+          "url": "https://www.youtube.com/watch?v=gnIqjepfHVg&list=PLYK5iRIrpTX7gIOo40tp17DEePUCEFNU0&index=9"
+        }
       ]
     },
     {
@@ -66,7 +66,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
