@@ -1,13 +1,14 @@
-import React, { useState } from "react";
-import { Link } from "react-router-dom";
-import PageDefault from "../../../components/PageDefault";
-import FormField from "../../../components/FormField";
+import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
+import PageDefault from '../../../components/PageDefault';
+import FormField from '../../../components/FormField';
+import Button from '../../../components/Button';
 
 function CadastroCategoria() {
   const valoresIniciais = {
-    nome: "",
-    descricao: "",
-    cor: "",
+    nome: '',
+    descricao: '',
+    cor: '',
   };
   const [categorias, setCategorias] = useState([]);
   const [values, setValues] = useState(valoresIniciais);
@@ -21,14 +22,25 @@ function CadastroCategoria() {
 
   function handleChange(infosDoEvento) {
     setValue(
-      infosDoEvento.target.getAttribute("name"),
+      infosDoEvento.target.getAttribute('name'),
       infosDoEvento.target.value
     );
   }
 
+  useEffect(() => {
+    const url = 'http://localhost:8080/categorias';
+    fetch(url).then(async (response) => {
+      const resposta = await response.json();
+      setCategorias([...resposta]);
+    });
+  }, []);
+
   return (
     <PageDefault>
-      <h1>Cadastro de Categoria: {values.nome}</h1>
+      <h1>
+        Cadastro de Categoria:
+        {values.nome}
+      </h1>
 
       <form
         onSubmit={function handleSubmit(infosDoEvento) {
@@ -62,13 +74,14 @@ function CadastroCategoria() {
           onChange={handleChange}
         />
 
-        <button>Cadastrar</button>
+        <Button>Cadastrar</Button>
       </form>
 
+      {categorias.length === 0 && <div>Loading...</div>}
       <ul>
-        {categorias.map((categoria, indice) => {
-          return <li key={`${categoria}${indice}`}>{categoria.nome}</li>;
-        })}
+        {categorias.map((categoria) => (
+          <li key={`${categoria.name}`}>{categoria.nome}</li>
+        ))}
       </ul>
 
       <Link to="/">Ir para home</Link>

@@ -1,0 +1,39 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Bolos e Tortas",
+      "descricao": "Dicas e Receitas de Bolos e Tortas",
+      "cor": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "nome": "Doces e Sobremesas",
+      "descricao": "Dicas e Receitas de Doces e Sobremesas",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 3,
+      "nome": "Light e Diet",
+      "descricao": "Dicas e Receitas de Light e Diets",
+      "cor": "#9cd33b"
+    },
+    {
+      "id": 4,
+      "nome": "Receitas Fáceis",
+      "cor": "orange"
+    },
+    {
+      "id": 5,
+      "nome": "Receitas da Ana Maria Brogui",
+      "descricao": "Dicas e Receitas da Ana Maria Brogui",
+      "cor": "red"
+    },
+    {
+      "id": 6,
+      "nome": "Bebidas",
+      "descricao": "Dicas e Receitas de Bebidas",
+      "cor": "#6b5be2"
+    }
+  ]
+}
