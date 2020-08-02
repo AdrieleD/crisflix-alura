@@ -28,7 +28,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const url = 'http://localhost:8080/categorias';
+    const url = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://thecrisflix.herokuapp.com/categorias';
     fetch(url).then(async (response) => {
       const resposta = await response.json();
       setCategorias([...resposta]);
@@ -77,7 +79,6 @@ function CadastroCategoria() {
         <Button>Cadastrar</Button>
       </form>
 
-      {categorias.length === 0 && <div>Loading...</div>}
       <ul>
         {categorias.map((categoria) => (
           <li key={`${categoria.name}`}>{categoria.nome}</li>
